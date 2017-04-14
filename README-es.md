@@ -1,6 +1,6 @@
-## Tú no necesitas jQuery [![Build Status](https://travis-ci.org/oneuijs/You-Dont-Need-jQuery.svg)](https://travis-ci.org/oneuijs/You-Dont-Need-jQuery)
+## No necesitas jQuery [![Build Status](https://travis-ci.org/oneuijs/You-Dont-Need-jQuery.svg)](https://travis-ci.org/oneuijs/You-Dont-Need-jQuery)
 
-El desarrollo Frontend evoluciona día a día, y los navegadores modernos ya han implementado nativamente APIs para trabajar con DOM/BOM, las cuales son muy buenas, por lo que definitivamente no es necesario aprender jQuery desde cero para manipular el DOM. En la actualidad, gracias al surgimiento de librerías frontend como React, Angular y Vue, manipular el DOM es contrario a los patrones establecidos, y jQuery se ha vuelto menos importante. Este proyecto resume la mayoría de métodos alternativos a jQuery, pero de forma nativa con soporte IE 10+.
+El desarrollo Frontend evoluciona a diario, y los navegadores modernos ya han implementado nativamente APIs de calidad para trabajar con DOM/BOM. Por ese motivo ya no es necesario aprender jQuery desde cero para manipular el DOM. Hoy en día, gracias a la abundante cantidad de nuevas librerías frontend como React, Angular y Vue, manipular el DOM es contrario a los patrones establecidos y, jQuery ha ido perdiendo importancia. Este proyecto resume la mayoría de métodos alternativos a jQuery, de forma nativa con soporte IE 10+.
 
 ## Tabla de Contenidos
 
